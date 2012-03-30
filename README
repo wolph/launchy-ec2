@@ -1,0 +1,15 @@
+===========
+Launchy EC2
+===========
+
+Launchy EC2 is a Launchy plugin to connect to EC2 machines quickly by autocompleting on the tags of the hosts.
+
+
+Installing
+==========
+
+1. Install Launchy (http://www.launchy.net/download.php)
+2. Install Pylaunchy (http://sourceforge.net/projects/pylaunchy/files/)
+3. Copy the `pyec2.py` file to `Launchy/plugins/python/`
+4. Install Boto in `Launchy/plugins/python/lib`
+
